@@ -10,9 +10,6 @@ Este repositório contém as soluções dos desafios focados em lógica de progr
 
 * **Hello:** Introdução à sintaxe básica.
 * **Mario (Desafio 1):** Lógica de loops aninhados para criar uma pirâmide alinhada à direita.
-  
-  ![Pirâmide do Mario](COLOQUE_O_PRINT_AQUI)
-
 * **Mario (Desafio 2):** Evolução da lógica de loops para criar duas pirâmides simétricas e alinhadas.
 * **Cash:** Algoritmos gulosos (*greedy algorithms*) para resolução de problemas de troco.
 * **Population:** Estruturas de repetição `while`.
