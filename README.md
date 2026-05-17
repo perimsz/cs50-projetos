@@ -8,6 +8,7 @@ Este repositório contém as soluções dos desafios focados em lógica de progr
 
 ## Conteúdo
 
+* **Hello:** Introdução à sintaxe básica da linguagem C e configuração do ambiente.
 * **Mario (Desafio 1 & 2):** Lógica de loops aninhados para criação de pirâmides (alinhada à direita e versão dupla simétrica).
 * **Cash (Coins):** Implementação de um algoritmo guloso (*greedy algorithm*) para calcular a quantidade mínima de moedas para um troco.
 * **Credit:** Algoritmo de validação de cartões de crédito utilizando a lógica matemática do algoritmo de Luhn.
